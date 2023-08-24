@@ -4,7 +4,7 @@
 <h4>Calculating the log daily return</h4>
 <h4>Calculate the probability of the stock price will drop over a certain percentage in a day</h4>
 <h4>Calculate Value at risk (VaR)</h4>
-<h4>Quatile)</h4>
+<h4>Quatile</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
